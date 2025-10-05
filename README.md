@@ -1,3 +1,4 @@
+![logo](Banner.png)
 <h1 align="center">Hi 👋, I'm Manasi Kulkarni</h1>
 <h3 align="center">A passionate Software Engineer, Frontend Developer from India</h3>
 
